@@ -5,7 +5,7 @@
 🧠 Estudando: Programação Html na Proz e Estou no 2°Ano do Ensino Médio da Escola Manoel
 
 ## Linguagens de Programação
-![Html 5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s) ![CSS 3](https://www.svgrepo.com/show/452185/css-3.svg)
+![Html 5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s)  ![CSS 3](https://quiksite.com/wp-content/uploads/2016/09/css3-square.png)
 
 <!--
 **FabioHenriqueSonic/fabiohenriquesonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
