@@ -5,7 +5,9 @@
 🧠 Estudando: Programação Html na Proz e Estou no 2°Ano do Ensino Médio da Escola Manoel
 
 ## Linguagens de Programação
-
+<div style="display: inline">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60" />
 
 <!--
 **FabioHenriqueSonic/fabiohenriquesonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
