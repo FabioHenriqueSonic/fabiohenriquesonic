@@ -1,9 +1,11 @@
 ## Olá, Eu sou o Fabio Henrique 👋
 
+📝 Atualmente estou apenas visando terminar os meus estudos e aprimorar o meu conhecimento em programação.
+
 🧠 Estudando: Programação Html na Proz e Estou no 2°Ano do Ensino Médio da Escola Manoel
 
 ## Linguagens de Programação
-![Html 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+![Html 5](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png) ![Css 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sH2KALHd1Zrs1zwelX6ORC40Uq4K-dBF0A&s)
 
 <!--
 **FabioHenriqueSonic/fabiohenriquesonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
