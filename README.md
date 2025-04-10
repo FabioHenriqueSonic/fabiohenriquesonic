@@ -53,6 +53,6 @@ Estudando _Desenvolvimento de Sistemas_ na Proz Educação.
 
 ## Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fabioh101112@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.fabioh101112@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fanniquito?igsh=MXRvcHYydzdsYThkMw==)
